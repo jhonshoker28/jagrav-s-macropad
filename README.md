@@ -5,7 +5,8 @@ A simple 4-key USB macropad built using KiCad and KMK firmware.
 ---
 
 ## Schematic
-design/design/schematic/macropad.pdf
+[View Schematic PDF](design/design/schematic/macropad.pdf)
+
 
 ---
 
