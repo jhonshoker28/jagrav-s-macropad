@@ -21,8 +21,6 @@ A simple 4-key USB macropad built using KiCad and KMK firmware.
 
 ## Case
 📄 [3D Printed Case](design/design/design/case/macropad case bottom hack  club.png)
-📄 [3D Printed Case](design/design/design/case/macropad case top hack club.png)
-
 ---
 
 ## Firmware
