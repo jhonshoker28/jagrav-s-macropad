@@ -11,11 +11,11 @@ A simple 4-key USB macropad built using KiCad and KMK firmware.
 ---
 
 ## PCB Design
-- 📄 [Front Copper](design/pcb/macropad-F_Cu.pdf)
-- 📄 [Back Copper](design/pcb/macropad-B_Cu.pdf)
-- 📄 [Front Silkscreen](design/pcb/macropad-F_Silkscreen.pdf)
-- 📄 [Back Silkscreen](design/pcb/macropad-B_Silkscreen.pdf)
-- 📄 [Board Outline](design/pcb/macropad-Edge_Cuts.pdf)
+- 📄 [Front Copper](design/design/pcb/macropad-F_Cu.pdf)
+- 📄 [Back Copper](design/design/pcb/macropad-B_Cu.pdf)
+- 📄 [Front Silkscreen](design/design/pcb/macropad-F_Silkscreen.pdf)
+- 📄 [Back Silkscreen](design/design/pcb/macropad-B_Silkscreen.pdf)
+- 📄 [Board Outline](design/design/pcb/macropad-Edge_Cuts.pdf)
 
 ---
 
